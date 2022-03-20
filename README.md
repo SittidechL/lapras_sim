@@ -21,4 +21,7 @@ ctr+atl+t
 source /opt/ros/galactic/setup.bash
 ros2 topic list
 
+ctl+alt+t
+ros2 run teleop_twist_keyboard teleop_twist_keyboard  # Key board
+
 ```
